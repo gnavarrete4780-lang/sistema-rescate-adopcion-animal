@@ -1,0 +1,22 @@
+
+# Sistema de Control de Rescate y Adopción Animal
+
+## 1. Descripción del proyecto
+Este proyecto tiene como finalidad diseñar un sistema que permita organizar y gestionar la información relacionada con el rescate y la adopción de animales.
+
+## 2. Objetivo general
+Diseñar un sistema de gestión que facilite el registro y seguimiento de animales rescatados, así como el control de los procesos de adopción.
+
+## 3. Funcionalidades principales
+- Registro de animales rescatados.
+- Registro de información de los animales.
+- Gestión de solicitudes de adopción.
+- Registro de personas adoptantes.
+- Seguimiento del estado de los animales.
+
+## 4. Tecnologías y herramientas
+- GitHub para almacenar y organizar el proyecto.
+- Las tecnologías de desarrollo se definirán de acuerdo con los requisitos de la actividad.
+
+## 5. Estado del proyecto
+Proyecto en fase inicial de análisis y diseño.
